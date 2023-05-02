@@ -1,0 +1,15 @@
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.csproj.AssemblyReference.cache
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.AssemblyInfoInputs.cache
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.AssemblyInfo.cs
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.csproj.CoreCompileInputs.cache
+C:\Users\TNR\VS\GB_itog_razrabotchik\bin\Debug\net7.0\GB_itog_razrabotchik.exe
+C:\Users\TNR\VS\GB_itog_razrabotchik\bin\Debug\net7.0\GB_itog_razrabotchik.deps.json
+C:\Users\TNR\VS\GB_itog_razrabotchik\bin\Debug\net7.0\GB_itog_razrabotchik.runtimeconfig.json
+C:\Users\TNR\VS\GB_itog_razrabotchik\bin\Debug\net7.0\GB_itog_razrabotchik.dll
+C:\Users\TNR\VS\GB_itog_razrabotchik\bin\Debug\net7.0\GB_itog_razrabotchik.pdb
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.dll
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\refint\GB_itog_razrabotchik.dll
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.pdb
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\GB_itog_razrabotchik.genruntimeconfig.cache
+C:\Users\TNR\VS\GB_itog_razrabotchik\obj\Debug\net7.0\ref\GB_itog_razrabotchik.dll
