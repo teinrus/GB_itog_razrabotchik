@@ -12,6 +12,7 @@ string [] Foo(string [] arr){
     return arrTemp;
 
 }
-string[] arr = {"1234", "156", "-2", "computer science"};
+string[] arr = {"Hello", "2", "world", ":-)"};
 
 System.Console.WriteLine(String.Join(",", Foo(arr)));
+
